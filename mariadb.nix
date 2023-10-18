@@ -1,3 +1,4 @@
+# https://jeancharles.quillet.org/posts/2022-01-30-Local-mariadb-server-with-nix-shell.html
 let pkgs = import <nixpkgs> {};
 in pkgs.mkShell {
   buildInputs = [ pkgs.mariadb ];
