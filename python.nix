@@ -16,7 +16,7 @@ let
     pymysql
     jieba
     wordcloud
-    pandas_datareader
+    pandas-datareader
 
     ipython
     pandas
