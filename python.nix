@@ -17,6 +17,7 @@ let
     jieba
     wordcloud
     pandas-datareader
+    pip
 
     ipython
     pandas
