@@ -17,7 +17,7 @@ let
     jieba
     wordcloud
     pandas-datareader
-    pip
+    pip # use in venv "python -m venv .venv" "source .venv/bin/activate"
 
     ipython
     pandas
